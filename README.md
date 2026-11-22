@@ -1,4 +1,4 @@
-# holaMundoPython
+# Hola mundo en Python
 Proyecto de ejemplo usando el lenguaje Python
 
 ## Descripción de la tarea
